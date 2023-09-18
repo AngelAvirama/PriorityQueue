@@ -1,2 +1,0 @@
-# PriorityQueue
-Odio a Daniela
